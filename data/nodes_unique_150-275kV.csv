@@ -1,0 +1,839 @@
+ID_node;Longitude;Latitude;name
+1;106.443;-6.172;Banten
+2;106.523;-6.204;Banten
+3;107.123;-6.275;Jawa Barat
+4;107.117;-6.286;Jawa Barat
+6;106.424;-6.2;Banten
+7;106.87;-6.109;Daerah Khusus Ibukota Jakarta
+8;106.896;-6.13;Daerah Khusus Ibukota Jakarta
+9;106.791;-6.134;Daerah Khusus Ibukota Jakarta
+10;106.825;-6.125;Daerah Khusus Ibukota Jakarta
+11;105.94;-6.033;Banten
+12;105.951;-6.025;Banten
+13;106.983;-6.205;Jawa Barat
+14;106.955;-6.118;Daerah Khusus Ibukota Jakarta
+16;106.933;-6.134;Daerah Khusus Ibukota Jakarta
+17;124.795;1.179;Sulawesi Utara
+18;124.796;1.174;Sulawesi Utara
+21;106.868;-6.262;Daerah Khusus Ibukota Jakarta
+22;106.881;-6.232;Daerah Khusus Ibukota Jakarta
+24;106.835;-6.258;Daerah Khusus Ibukota Jakarta
+25;106.51;-6.26;Banten
+26;106.6;-6.317;Banten
+28;106.474;-6.275;Banten
+29;106.344;-6.162;Banten
+32;106.33;-6.179;Banten
+34;106.53;-6.183;Banten
+35;106.02;-5.989;Banten
+36;105.985;-5.992;Banten
+38;106.182;-6.09;Banten
+39;106.031;-5.996;Banten
+42;106.004;-5.971;Banten
+43;106.914;-6.441;Jawa Barat
+44;106.865;-6.422;Jawa Barat
+46;106.88;-6.202;Daerah Khusus Ibukota Jakarta
+47;106.659;-6.151;Banten
+48;106.606;-6.156;Banten
+49;106.328;-6.198;Banten
+50;106.333;-6.247;Banten
+52;106.794;-6.413;Jawa Barat
+53;106.726;-6.171;Daerah Khusus Ibukota Jakarta
+54;106.784;-6.166;Daerah Khusus Ibukota Jakarta
+55;106.918;-6.178;Daerah Khusus Ibukota Jakarta
+56;106.918;-6.187;Daerah Khusus Ibukota Jakarta
+58;106.743;-6.253;Banten
+61;106.104;-5.931;Banten
+63;106.583;-6.214;Banten
+64;106.641;-6.207;Banten
+65;106.923;-6.328;Jawa Barat
+66;106.955;-6.243;Jawa Barat
+70;106.898;-6.299;Daerah Khusus Ibukota Jakarta
+72;106.812;-6.199;Daerah Khusus Ibukota Jakarta
+73;106.811;-6.198;Daerah Khusus Ibukota Jakarta
+74;106.798;-6.239;Daerah Khusus Ibukota Jakarta
+75;106.821;-6.236;Daerah Khusus Ibukota Jakarta
+77;106.72;-6.188;Daerah Khusus Ibukota Jakarta
+78;106.68;-6.211;Banten
+80;106.609;-6.243;Banten
+81;106.852;-6.14;Daerah Khusus Ibukota Jakarta
+83;105.829;-6.392;Banten
+84;105.828;-6.354;Banten
+86;106.945;-6.202;Daerah Khusus Ibukota Jakarta
+88;106.001;-6.405;Banten
+89;106.464;-6.06;Banten
+92;106.636;-6.064;Banten
+93;106.787;-6.111;Daerah Khusus Ibukota Jakarta
+94;106.782;-6.11;Daerah Khusus Ibukota Jakarta
+100;105.869;-6.15;Banten
+105;107.322;-6.375;Jawa Barat
+106;107.332;-6.379;Jawa Barat
+108;106.984;-6.205;Jawa Barat
+110;107.035;-6.284;Jawa Barat
+112;106.032;-5.897;Banten
+118;106.847;-6.213;Daerah Khusus Ibukota Jakarta
+119;106.869;-6.192;Daerah Khusus Ibukota Jakarta
+120;106.835;-6.18;Daerah Khusus Ibukota Jakarta
+123;106.895;-6.13;Daerah Khusus Ibukota Jakarta
+125;106.952;-6.184;Daerah Khusus Ibukota Jakarta
+127;106.866;-6.111;Daerah Khusus Ibukota Jakarta
+130;106.787;-6.344;Jawa Barat
+132;106.319;-6.205;Banten
+133;106.271;-6.365;Banten
+138;106.078;-5.897;Banten
+139;106.571;-6.114;Banten
+141;109.769;-6.935;Jawa Tengah
+142;109.662;-6.905;Jawa Tengah
+143;106.183;-6.091;Banten
+145;106.672;-6.351;Banten
+146;106.659;-6.305;Banten
+151;107.728;-7.219;Jawa Barat
+152;107.739;-7.217;Jawa Barat
+153;106.937;-6.456;Jawa Barat
+154;106.891;-6.485;Jawa Barat
+162;107.325;-6.362;Jawa Barat
+163;110.363;-7.839;Daerah Istimewa Yogyakarta
+164;110.091;-7.893;Daerah Istimewa Yogyakarta
+165;110.71;-7.542;Jawa Tengah
+166;110.787;-7.554;Jawa Tengah
+168;110.62;-7.712;Jawa Tengah
+169;106.766;-6.865;Jawa Barat
+170;106.849;-6.658;Jawa Barat
+171;107.239;-6.361;Jawa Barat
+172;107.272;-6.351;Jawa Barat
+173;107.325;-6.361;Jawa Barat
+174;107.324;-6.339;Jawa Barat
+175;107.161;-6.376;Jawa Barat
+176;107.097;-6.296;Jawa Barat
+177;110.435;-7.221;Jawa Tengah
+179;107.572;-7.057;Jawa Barat
+180;107.654;-6.937;Jawa Barat
+181;106.821;-6.594;Jawa Barat
+182;106.857;-6.525;Jawa Barat
+184;107.378;-6.374;Jawa Barat
+185;107.16;-6.273;Jawa Barat
+186;107.13;-6.294;Jawa Barat
+188;107.36;-6.38;Jawa Barat
+189;108.536;-7.386;Jawa Barat
+190;108.787;-7.311;Jawa Tengah
+194;107.16;-6.369;Jawa Barat
+196;109.964;-7.751;Jawa Tengah
+198;110.627;-7.986;Daerah Istimewa Yogyakarta
+199;109.001;-6.887;Jawa Tengah
+200;109.128;-6.913;Jawa Tengah
+201;110.506;-7.312;Jawa Tengah
+202;110.619;-7.538;Jawa Tengah
+204;110.234;-7.416;Jawa Tengah
+206;110.229;-7.475;Jawa Tengah
+207;108.361;-7.333;Jawa Barat
+209;107.494;-6.505;Jawa Barat
+210;107.549;-6.461;Jawa Barat
+211;108.614;-6.771;Jawa Barat
+214;107.613;-6.952;Jawa Barat
+215;107.564;-6.915;Jawa Barat
+217;107.112;-6.801;Jawa Barat
+219;107.499;-6.928;Jawa Barat
+224;106.936;-6.457;Jawa Barat
+227;107.805;-7.01;Jawa Barat
+228;107.784;-7.138;Jawa Barat
+231;107.669;-6.869;Jawa Barat
+232;107.592;-6.858;Jawa Barat
+233;109.898;-7.226;Jawa Tengah
+234;109.905;-7.226;Jawa Tengah
+236;107.913;-7.268;Jawa Barat
+238;108.209;-7.353;Jawa Barat
+239;109.51;-7.631;Jawa Tengah
+240;109.162;-7.539;Jawa Tengah
+243;110.816;-7.497;Jawa Tengah
+246;107.731;-6.936;Jawa Barat
+248;109.134;-7.581;Jawa Tengah
+249;109.922;-7.291;Jawa Tengah
+252;109.897;-7.381;Jawa Tengah
+254;107.306;-6.36;Jawa Barat
+256;107.271;-6.308;Jawa Barat
+257;107.945;-6.44;Jawa Barat
+258;107.662;-6.335;Jawa Barat
+261;107.969;-6.276;Jawa Barat
+269;110.9;-6.806;Jawa Tengah
+270;110.82;-6.838;Jawa Tengah
+272;111.052;-6.767;Jawa Tengah
+273;110.714;-6.638;Jawa Tengah
+274;110.741;-6.45;Jawa Tengah
+275;108.344;-6.479;Jawa Barat
+277;107.391;-6.52;Jawa Barat
+278;107.418;-6.428;Jawa Barat
+280;109.026;-7.282;Jawa Tengah
+281;109.089;-7.091;Jawa Tengah
+285;109.257;-7.434;Jawa Tengah
+287;110.263;-6.967;Jawa Tengah
+288;110.07;-6.98;Jawa Tengah
+291;110.365;-6.987;Jawa Tengah
+292;110.345;-6.986;Jawa Tengah
+294;107.343;-6.387;Jawa Barat
+298;107.425;-6.404;Jawa Barat
+299;109.005;-7.695;Jawa Tengah
+301;110.393;-7.739;Daerah Istimewa Yogyakarta
+302;110.318;-7.756;Daerah Istimewa Yogyakarta
+306;110.899;-7.088;Jawa Tengah
+307;107.489;-6.84;Jawa Barat
+309;106.892;-6.957;Jawa Barat
+311;108.486;-6.818;Jawa Barat
+314;108.54;-6.737;Jawa Barat
+317;109.388;-7.443;Jawa Tengah
+319;109.608;-7.396;Jawa Tengah
+320;109.389;-7.443;Jawa Tengah
+321;110.41;-7.097;Jawa Tengah
+322;110.411;-7.158;Jawa Tengah
+323;107.421;-7.182;Jawa Barat
+325;110.513;-7.037;Jawa Tengah
+327;110.997;-7.934;Jawa Tengah
+328;110.949;-7.804;Jawa Tengah
+329;110.881;-7.561;Jawa Tengah
+331;111.041;-8.078;Jawa Timur
+333;110.441;-6.993;Jawa Tengah
+336;110.427;-7.05;Jawa Tengah
+338;110.432;-6.951;Jawa Tengah
+341;109.026;-7.689;Jawa Tengah
+342;109.088;-7.686;Jawa Tengah
+343;107.35;-6.672;Jawa Barat
+346;107.553;-6.881;Jawa Barat
+347;110.709;-7.677;Jawa Tengah
+354;110.765;-7.623;Jawa Tengah
+356;109.385;-6.914;Jawa Tengah
+360;107.001;-6.253;Jawa Barat
+361;106.545;-7.022;Jawa Barat
+367;109.727;-7.734;Jawa Tengah
+370;109.779;-7.611;Jawa Tengah
+371;107.782;-6.951;Jawa Barat
+372;108.542;-6.738;Jawa Barat
+383;110.804;-7.614;Jawa Tengah
+385;106.648;-6.742;Jawa Barat
+386;106.673;-6.741;Jawa Barat
+389;111.476;-6.637;Jawa Tengah
+392;111.346;-6.722;Jawa Tengah
+400;110.405;-6.992;Jawa Tengah
+402;110.538;-6.928;Jawa Tengah
+405;108.235;-7.401;Jawa Barat
+406;108.126;-7.635;Jawa Barat
+408;108.363;-7.336;Jawa Barat
+412;110.482;-7.245;Jawa Tengah
+415;112.096;-7.614;Jawa Timur
+416;112.098;-7.615;Jawa Timur
+422;110.134;-7.279;Jawa Tengah
+431;107.626;-7.196;Jawa Barat
+438;107.769;-7.036;Jawa Barat
+441;112.149;-7.125;Jawa Timur
+442;112.145;-7.129;Jawa Timur
+443;112.66;-7.167;Jawa Timur
+444;112.637;-7.194;Jawa Timur
+445;106.802;-6.559;Jawa Barat
+446;106.814;-6.388;Jawa Barat
+448;107.615;-6.982;Jawa Barat
+449;104.577;-5.307;Lampung
+450;104.574;-5.321;Lampung
+457;111.577;-7.149;Jawa Tengah
+458;111.398;-6.969;Jawa Tengah
+461;110.338;-7.032;Jawa Tengah
+465;110.33;-7.682;Daerah Istimewa Yogyakarta
+468;110.93;-7.461;Jawa Tengah
+489;107.207;-6.454;Jawa Barat
+580;106.815;-6.388;Jawa Barat
+636;110.84;-7.257;Jawa Tengah
+647;111.457;-7.407;Jawa Timur
+648;111.014;-7.413;Jawa Tengah
+659;110.434;-7.22;Jawa Tengah
+675;105.999;-5.982;Banten
+676;105.996;-5.98;Banten
+680;105.941;-6.034;Banten
+717;105.962;-6.036;Banten
+719;106.008;-6.002;Banten
+731;107.109;-6.273;Jawa Barat
+746;106.815;-6.41;Jawa Barat
+761;112.674;-7.288;Jawa Timur
+762;112.674;-7.281;Jawa Timur
+778;106.068;-5.886;Banten
+779;106.468;-6.205;Banten
+780;106.498;-6.251;Banten
+803;119.118;-2.492;Sulawesi Barat
+804;119.147;-2.473;Sulawesi Barat
+812;106.74;-6.273;Banten
+813;106.984;-6.202;Jawa Barat
+816;106.822;-6.236;Daerah Khusus Ibukota Jakarta
+827;112.6;-7.369;Jawa Timur
+828;112.618;-7.347;Jawa Timur
+830;106.286;-6.128;Banten
+836;106.656;-6.22;Banten
+845;106.751;-6.124;Daerah Khusus Ibukota Jakarta
+855;106.915;-6.146;Daerah Khusus Ibukota Jakarta
+861;119.309;-2.078;Sulawesi Barat
+872;108.787;-7.312;Jawa Tengah
+893;103.979;1.074;Kepulauan Riau
+894;103.964;1.095;Kepulauan Riau
+923;107.609;-6.92;Jawa Barat
+948;106.989;-6.159;Jawa Barat
+957;108.133;-6.476;Jawa Barat
+962;107.554;-6.899;Jawa Barat
+969;106.864;-6.973;Jawa Barat
+982;107.455;-6.568;Jawa Barat
+987;117.293;-0.316;Kalimantan Timur
+988;117.214;-0.524;Kalimantan Timur
+1001;110.354;-7.802;Daerah Istimewa Yogyakarta
+1005;112.772;-7.255;Jawa Timur
+1006;112.773;-7.231;Jawa Timur
+1022;111.461;-6.863;Jawa Tengah
+1025;112.745;-7.21;Jawa Timur
+1026;112.771;-7.229;Jawa Timur
+1027;112.746;-7.341;Jawa Timur
+1028;112.77;-7.292;Jawa Timur
+1029;109.971;1.314;Kalimantan Barat
+1030;109.497;0.907;Kalimantan Barat
+1031;117.193;-0.583;Kalimantan Timur
+1033;117.052;-0.382;Kalimantan Timur
+1034;116.978;-0.456;Kalimantan Timur
+1041;112.77;-7.291;Jawa Timur
+1043;117.114;-0.502;Kalimantan Timur
+1044;117.106;-0.547;Kalimantan Timur
+1048;117.435;0.161;Kalimantan Timur
+1049;108.985;0.316;Kalimantan Barat
+1050;109.206;0.059;Kalimantan Barat
+1052;112.708;-7.346;Jawa Timur
+1053;108.988;0.927;Kalimantan Barat
+1055;116.949;-1.238;Kalimantan Timur
+1056;117.135;-0.987;Kalimantan Timur
+1057;109.328;0;Kalimantan Barat
+1060;109.381;-0.074;Kalimantan Barat
+1061;109.497;0.906;Kalimantan Barat
+1063;112.714;-7.256;Jawa Timur
+1064;112.686;-7.257;Jawa Timur
+1065;109.269;1.343;Kalimantan Barat
+1069;112.688;-7.701;Jawa Timur
+1070;112.728;-7.74;Jawa Timur
+1071;115.126;-3.029;Kalimantan Selatan
+1072;114.85;-3.466;Kalimantan Selatan
+1073;115.295;-2.417;Kalimantan Selatan
+1074;115.328;-2.684;Kalimantan Selatan
+1076;115.45;-2.195;Kalimantan Selatan
+1077;116.792;-1.166;Kalimantan Timur
+1078;116.878;-1.149;Kalimantan Timur
+1079;112.686;-7.256;Jawa Timur
+1080;112.687;-7.258;Jawa Timur
+1082;112.707;-7.347;Jawa Timur
+1085;111.892;-6.819;Jawa Timur
+1086;111.917;-6.865;Jawa Timur
+1090;116.841;-1.262;Kalimantan Timur
+1091;112.714;-7.228;Jawa Timur
+1092;112.713;-7.254;Jawa Timur
+1093;111.908;-6.861;Jawa Timur
+1096;112.722;-7.209;Jawa Timur
+1097;112.742;-7.211;Jawa Timur
+1098;112.723;-7.208;Jawa Timur
+1099;116.708;-8.421;Nusa Tenggara Barat
+1100;116.398;-8.228;Nusa Tenggara Barat
+1101;124.926;1.494;Sulawesi Utara
+1102;124.855;1.456;Sulawesi Utara
+1103;116.074;-8.658;Nusa Tenggara Barat
+1104;116.077;-8.599;Nusa Tenggara Barat
+1105;116.29;-8.813;Nusa Tenggara Barat
+1106;116.079;-8.629;Nusa Tenggara Barat
+1107;116.292;-8.813;Nusa Tenggara Barat
+1108;116.524;-8.632;Nusa Tenggara Barat
+1109;116.525;-8.632;Nusa Tenggara Barat
+1110;116.63;-8.544;Nusa Tenggara Barat
+1111;116.306;-8.889;Nusa Tenggara Barat
+1112;116.291;-8.814;Nusa Tenggara Barat
+1113;116.204;-8.699;Nusa Tenggara Barat
+1114;116.309;-8.62;Nusa Tenggara Barat
+1115;116.087;-8.544;Nusa Tenggara Barat
+1116;116.166;-8.592;Nusa Tenggara Barat
+1117;116.706;-8.422;Nusa Tenggara Barat
+1118;116.629;-8.543;Nusa Tenggara Barat
+1119;112.575;-7.179;Jawa Timur
+1120;112.613;-7.129;Jawa Timur
+1121;112.708;-7.345;Jawa Timur
+1123;112.661;-7.168;Jawa Timur
+1124;112.685;-7.257;Jawa Timur
+1125;112.644;-7.19;Jawa Timur
+1126;112.414;-7.142;Jawa Timur
+1127;112.635;-7.153;Jawa Timur
+1128;112.645;-7.19;Jawa Timur
+1129;112.644;-7.191;Jawa Timur
+1130;112.637;-7.195;Jawa Timur
+1131;112.651;-7.326;Jawa Timur
+1133;112.709;-7.348;Jawa Timur
+1134;112.707;-7.355;Jawa Timur
+1135;112.709;-7.346;Jawa Timur
+1136;112.746;-7.342;Jawa Timur
+1137;112.706;-7.409;Jawa Timur
+1138;112.709;-7.347;Jawa Timur
+1140;112.809;-7.309;Jawa Timur
+1141;112.769;-7.124;Jawa Timur
+1142;112.72;-7.149;Jawa Timur
+1143;112.793;-7.057;Jawa Timur
+1144;112.771;-7.126;Jawa Timur
+1146;113.238;-7.179;Jawa Timur
+1147;113.835;-7.008;Jawa Timur
+1148;113.239;-7.179;Jawa Timur
+1149;112.721;-7.42;Jawa Timur
+1150;112.708;-7.412;Jawa Timur
+1151;112.783;-7.156;Jawa Timur
+1152;112.771;-7.127;Jawa Timur
+1153;112.655;-7.183;Jawa Timur
+1155;112.619;-7.347;Jawa Timur
+1156;112.675;-7.389;Jawa Timur
+1157;112.247;-8.143;Jawa Timur
+1158;112.443;-8.16;Jawa Timur
+1159;112.605;-7.344;Jawa Timur
+1160;112.637;-7.196;Jawa Timur
+1163;112.343;-7.59;Jawa Timur
+1164;112.033;-7.837;Jawa Timur
+1166;112.461;-7.468;Jawa Timur
+1167;112.612;-7.557;Jawa Timur
+1168;112.462;-7.468;Jawa Timur
+1169;112.598;-7.324;Jawa Timur
+1170;112.596;-7.324;Jawa Timur
+1174;112.568;-7.348;Jawa Timur
+1175;112.591;-8.02;Jawa Timur
+1176;112.444;-8.159;Jawa Timur
+1177;112.616;-8.021;Jawa Timur
+1179;112.617;-8.021;Jawa Timur
+1180;112.576;-7.905;Jawa Timur
+1182;112.68;-7.968;Jawa Timur
+1184;112.674;-7.844;Jawa Timur
+1185;112.675;-7.841;Jawa Timur
+1186;112.69;-7.848;Jawa Timur
+1187;112.677;-7.842;Jawa Timur
+1188;112.776;-7.604;Jawa Timur
+1189;112.621;-7.342;Jawa Timur
+1191;112.577;-7.181;Jawa Timur
+1192;112.599;-7.324;Jawa Timur
+1193;112.618;-7.346;Jawa Timur
+1194;112.558;-7.413;Jawa Timur
+1196;112.46;-7.469;Jawa Timur
+1197;112.617;-7.345;Jawa Timur
+1199;111.867;-7.176;Jawa Timur
+1202;112.148;-7.124;Jawa Timur
+1203;112.033;-6.886;Jawa Timur
+1204;111.994;-6.813;Jawa Timur
+1206;112.035;-6.888;Jawa Timur
+1207;111.549;-7.641;Jawa Timur
+1209;111.548;-7.641;Jawa Timur
+1210;111.494;-7.87;Jawa Timur
+1211;112.032;-7.836;Jawa Timur
+1213;112.09;-7.611;Jawa Timur
+1216;112.413;-7.142;Jawa Timur
+1218;112.434;-6.892;Jawa Timur
+1220;112.035;-7.839;Jawa Timur
+1221;112.19;-7.288;Jawa Timur
+1224;111.893;-6.818;Jawa Timur
+1225;111.125;-8.182;Jawa Timur
+1226;111.373;-8.256;Jawa Timur
+1227;111.113;-8.182;Jawa Timur
+1228;111.124;-8.183;Jawa Timur
+1229;131.247;-1.021;Papua Barat
+1230;131.334;-0.986;Papua Barat
+1232;111.112;-8.182;Jawa Timur
+1233;112.25;-7.439;Jawa Timur
+1234;112.209;-7.539;Jawa Timur
+1237;112.016;-7.764;Jawa Timur
+1238;112.023;-7.755;Jawa Timur
+1240;111.124;-8.182;Jawa Timur
+1241;111.917;-6.866;Jawa Timur
+1244;112.724;-7.606;Jawa Timur
+1245;112.814;-7.628;Jawa Timur
+1247;102.485;-3.59;Bengkulu
+1248;102.514;-3.526;Bengkulu
+1250;112.76;-7.768;Jawa Timur
+1251;112.777;-7.604;Jawa Timur
+1252;112.896;-7.688;Jawa Timur
+1255;112.965;-7.694;Jawa Timur
+1258;113.023;-7.654;Jawa Timur
+1259;113.426;-7.779;Jawa Timur
+1260;113.582;-7.719;Jawa Timur
+1261;114.019;-7.717;Jawa Timur
+1263;115.015;-8.516;Bali
+1264;114.661;-8.364;Bali
+1265;113.212;-8.129;Jawa Timur
+1266;113.213;-7.764;Jawa Timur
+1267;113.253;-7.865;Jawa Timur
+1268;113.229;-7.85;Jawa Timur
+1269;113.213;-7.766;Jawa Timur
+1270;113.426;-7.78;Jawa Timur
+1271;113.212;-8.128;Jawa Timur
+1272;113.698;-8.194;Jawa Timur
+1274;113.313;-7.798;Jawa Timur
+1276;113.833;-7.937;Jawa Timur
+1277;114.355;-8.188;Jawa Timur
+1279;113.699;-8.193;Jawa Timur
+1280;113.833;-7.938;Jawa Timur
+1282;114.355;-8.19;Jawa Timur
+1283;114.356;-8.188;Jawa Timur
+1284;114.4;-8.153;Jawa Timur
+1285;112.68;-7.969;Jawa Timur
+1286;112.76;-7.769;Jawa Timur
+1287;104.732;-2.951;Sumatera Selatan
+1288;104.767;-2.948;Sumatera Selatan
+1290;112.904;-7.687;Jawa Timur
+1291;114.164;-8.387;Jawa Timur
+1292;114.165;-8.326;Jawa Timur
+1293;115.06;-8.136;Bali
+1294;114.442;-8.175;Bali
+1298;115.182;-8.583;Bali
+1299;115.161;-8.258;Bali
+1302;115.335;-8.563;Bali
+1303;115.187;-8.666;Bali
+1305;115.183;-8.583;Bali
+1306;115.191;-8.689;Bali
+1309;115.335;-8.562;Bali
+1310;115.588;-8.448;Bali
+1311;115.253;-8.675;Bali
+1312;115.211;-8.718;Bali
+1316;115.183;-8.743;Bali
+1318;115.253;-8.674;Bali
+1319;127.371;0.761;Maluku Utara
+1320;127.307;0.766;Maluku Utara
+1321;115.252;-8.674;Bali
+1324;115.186;-8.667;Bali
+1325;115.182;-8.745;Bali
+1327;115.205;-8.443;Bali
+1328;115.242;-8.443;Bali
+1329;114.434;-8.166;Bali
+1331;115.222;-8.797;Bali
+1332;115.182;-8.748;Bali
+1333;115.183;-8.751;Bali
+1335;119.473;-5.147;Sulawesi Selatan
+1336;119.589;-4.802;Sulawesi Selatan
+1337;114.853;-8.199;Bali
+1339;125.094;1.657;Sulawesi Utara
+1340;125.102;1.665;Sulawesi Utara
+1341;123.47;0.888;Sulawesi Utara
+1342;123.468;0.875;Sulawesi Utara
+1343;123.023;0.544;Gorontalo
+1344;123.025;0.551;Gorontalo
+1345;98.768;2.271;Sumatera Utara
+1346;98.663;2.236;Sumatera Utara
+1347;119.595;-4.931;Sulawesi Selatan
+1348;119.462;-5.231;Sulawesi Selatan
+1350;119.625;-4.946;Sulawesi Selatan
+1352;119.395;-5.19;Sulawesi Selatan
+1353;119.474;-5.462;Sulawesi Selatan
+1356;119.446;-5.164;Sulawesi Selatan
+1359;119.633;-4.293;Sulawesi Selatan
+1360;119.637;-4.022;Sulawesi Selatan
+1361;119.753;-3.917;Sulawesi Selatan
+1363;119.624;-3.969;Sulawesi Selatan
+1364;119.636;-4.022;Sulawesi Selatan
+1365;119.589;-4.801;Sulawesi Selatan
+1368;119.649;-3.475;Sulawesi Selatan
+1370;119.652;-3.48;Sulawesi Selatan
+1371;104.006;1.013;Kepulauan Riau
+1372;104.035;1.03;Kepulauan Riau
+1373;118.96;-3.495;Sulawesi Barat
+1374;119.32;-3.402;Sulawesi Barat
+1376;119.534;-3.521;Sulawesi Selatan
+1379;119.924;-4.351;Sulawesi Selatan
+1381;119.784;-5.666;Sulawesi Selatan
+1384;120.139;-5.57;Sulawesi Selatan
+1386;119.895;-3.072;Sulawesi Selatan
+1387;120.073;-4.176;Sulawesi Selatan
+1391;120.273;-4.517;Sulawesi Selatan
+1393;120.179;-3.024;Sulawesi Selatan
+1395;103.931;1.055;Kepulauan Riau
+1397;122.013;0.478;Gorontalo
+1398;122.886;0.657;Gorontalo
+1400;123.127;0.52;Gorontalo
+1402;124.604;1.219;Sulawesi Utara
+1404;123.256;0.904;Sulawesi Utara
+1406;123.996;0.858;Sulawesi Utara
+1408;124.293;0.781;Sulawesi Utara
+1413;124.48;1.181;Sulawesi Utara
+1418;124.822;1.254;Sulawesi Utara
+1419;124.852;1.314;Sulawesi Utara
+1422;103.903;1.09;Kepulauan Riau
+1424;125.112;1.409;Sulawesi Utara
+1425;120.651;-1.64;Sulawesi Tengah
+1426;120.704;-1.411;Sulawesi Tengah
+1427;107.566;-2.892;Kepulauan Bangka Belitung
+1428;107.662;-2.772;Kepulauan Bangka Belitung
+1429;104.084;1.099;Kepulauan Riau
+1430;104.096;1.161;Kepulauan Riau
+1431;104.04;1.032;Kepulauan Riau
+1432;104.132;1.065;Kepulauan Riau
+1433;104.037;1.031;Kepulauan Riau
+1434;104.042;1.051;Kepulauan Riau
+1435;105.174;-5.185;Lampung
+1436;104.932;-5.368;Lampung
+1438;119.937;-0.999;Sulawesi Tengah
+1439;106.149;-2.078;Kepulauan Bangka Belitung
+1440;106.091;-2.102;Kepulauan Bangka Belitung
+1441;106.101;-1.902;Kepulauan Bangka Belitung
+1442;106.124;-2.078;Kepulauan Bangka Belitung
+1443;98.69;3.54;Sumatera Utara
+1444;98.505;3.159;Sumatera Utara
+1445;106.09;-2.102;Kepulauan Bangka Belitung
+1446;106.401;-2.5;Kepulauan Bangka Belitung
+1447;104.022;1.114;Kepulauan Riau
+1448;104.085;1.098;Kepulauan Riau
+1450;104.022;1.179;Kepulauan Riau
+1451;104.132;1.046;Kepulauan Riau
+1455;104.181;-2.843;Sumatera Selatan
+1456;104.738;-2.882;Sumatera Selatan
+1457;104.745;-3.033;Sumatera Selatan
+1458;104.647;-2.928;Sumatera Selatan
+1459;101.317;-0.877;Sumatera Barat
+1460;101.541;-0.524;Riau
+1461;99.654;2.963;Sumatera Utara
+1462;99.808;2.112;Sumatera Utara
+1463;104.864;-4.852;Lampung
+1464;104.576;-4.833;Lampung
+1465;100.754;-0.613;Sumatera Barat
+1466;100.77;-0.621;Sumatera Barat
+1467;105.35;-5.518;Lampung
+1468;105.377;-5.391;Lampung
+1469;100.881;0.296;Riau
+1470;100.643;-0.253;Sumatera Barat
+1471;99.035;1.481;Sumatera Utara
+1472;99.3;1.339;Sumatera Utara
+1473;99.46;3.343;Sumatera Utara
+1474;99.653;2.963;Sumatera Utara
+1475;100.277;-0.683;Sumatera Barat
+1476;100.433;-0.934;Sumatera Barat
+1477;100.378;-0.344;Sumatera Barat
+1478;100.642;-0.253;Sumatera Barat
+1479;100.115;-0.31;Sumatera Barat
+1480;100.276;-0.682;Sumatera Barat
+1481;100.116;-0.311;Sumatera Barat
+1482;99.828;0.077;Sumatera Barat
+1483;104.896;-2.95;Sumatera Selatan
+1484;104.871;-2.924;Sumatera Selatan
+1485;104.771;-3.004;Sumatera Selatan
+1486;104.833;-3.017;Sumatera Selatan
+1487;100.753;-0.612;Sumatera Barat
+1488;101.316;-0.878;Sumatera Barat
+1489;102.103;-1.432;Jambi
+1490;103.543;-1.603;Jambi
+1491;101.524;0.41;Riau
+1492;101.815;0.395;Riau
+1493;98.668;3.616;Sumatera Utara
+1494;98.594;3.59;Sumatera Utara
+1495;96.197;4.109;Aceh
+1496;95.963;5.352;Aceh
+1497;105.351;-5.518;Lampung
+1498;105.626;-5.723;Lampung
+1499;105.714;-5.313;Lampung
+1502;100.573;-0.404;Sumatera Barat
+1503;100.399;-0.451;Sumatera Barat
+1504;100.572;-0.404;Sumatera Barat
+1505;98.273;3.992;Sumatera Utara
+1506;97.943;4.511;Aceh
+1507;98.722;3.553;Sumatera Utara
+1508;98.783;3.567;Sumatera Utara
+1509;99.106;2.964;Sumatera Utara
+1510;99.186;2.466;Sumatera Utara
+1511;100.351;-0.62;Sumatera Barat
+1512;100.352;-0.62;Sumatera Barat
+1513;100.351;-0.621;Sumatera Barat
+1515;104.646;-2.928;Sumatera Selatan
+1518;98.99;2.016;Sumatera Utara
+1519;104.245;-3.445;Sumatera Selatan
+1520;104.655;-3.207;Sumatera Selatan
+1521;98.834;1.692;Sumatera Utara
+1522;98.729;1.752;Sumatera Utara
+1524;100.128;1.862;Sumatera Utara
+1525;122.797;0.85;Gorontalo
+1526;122.863;0.778;Gorontalo
+1527;99.809;2.111;Sumatera Utara
+1530;100.632;-0.793;Sumatera Barat
+1531;104.169;-4.107;Sumatera Selatan
+1532;104.16;-4.116;Sumatera Selatan
+1533;98.835;1.691;Sumatera Utara
+1535;114.552;-3.277;Kalimantan Selatan
+1536;114.62;-3.23;Kalimantan Selatan
+1537;98.34;2.735;Sumatera Utara
+1538;98.629;2.533;Sumatera Utara
+1539;100.378;-0.942;Sumatera Barat
+1542;104.745;-3.034;Sumatera Selatan
+1543;100.349;-0.622;Sumatera Barat
+1544;100.277;-0.681;Sumatera Barat
+1547;98.867;1.739;Sumatera Utara
+1548;98.836;1.692;Sumatera Utara
+1549;100.632;-0.794;Sumatera Barat
+1550;100.474;-0.947;Sumatera Barat
+1551;101.525;0.565;Riau
+1557;99.165;3.382;Sumatera Utara
+1558;99.452;3.347;Sumatera Utara
+1559;99.165;3.383;Sumatera Utara
+1561;98.63;2.533;Sumatera Utara
+1562;98.713;2.687;Sumatera Utara
+1563;101.463;0.547;Riau
+1565;98.67;3.771;Sumatera Utara
+1566;98.667;3.715;Sumatera Utara
+1567;104.573;-5.31;Lampung
+1568;104.763;-5.314;Lampung
+1569;103.752;-2.155;Sumatera Selatan
+1571;100.423;-1.071;Sumatera Barat
+1572;100.417;-1.031;Sumatera Barat
+1573;98.506;3.647;Sumatera Utara
+1574;98.255;4.12;Sumatera Utara
+1575;104.809;-2.968;Sumatera Selatan
+1577;96.111;4.173;Aceh
+1580;98.68;3.754;Sumatera Utara
+1581;97.086;5.199;Aceh
+1582;96.727;5.131;Aceh
+1584;97.183;5.114;Aceh
+1585;98.654;3.476;Sumatera Utara
+1588;98.087;4.384;Aceh
+1589;103.51;-3.768;Sumatera Selatan
+1590;103.226;-3.981;Sumatera Selatan
+1591;104.695;-2.976;Sumatera Selatan
+1592;104.689;-2.98;Sumatera Selatan
+1593;103.511;-3.767;Sumatera Selatan
+1594;102.856;-3.239;Sumatera Selatan
+1596;98.698;3.735;Sumatera Utara
+1597;104.862;-4.85;Lampung
+1598;105.201;-4.511;Lampung
+1599;98.653;3.474;Sumatera Utara
+1601;98.68;3.671;Sumatera Utara
+1602;98.789;3.602;Sumatera Utara
+1603;98.715;2.253;Sumatera Utara
+1604;98.664;2.237;Sumatera Utara
+1605;103.797;-3.73;Sumatera Selatan
+1607;104.781;-3.043;Sumatera Selatan
+1608;104.78;-3.04;Sumatera Selatan
+1610;104.169;-4.106;Sumatera Selatan
+1611;104.495;-4.583;Lampung
+1612;104.486;-4.577;Lampung
+1613;98.508;3.646;Sumatera Utara
+1618;98.788;3.6;Sumatera Utara
+1619;95.57;5.362;Aceh
+1620;95.57;5.359;Aceh
+1621;102.274;-2.043;Jambi
+1623;99.2;2.481;Sumatera Utara
+1624;99.258;2.511;Sumatera Utara
+1626;98.593;3.59;Sumatera Utara
+1627;101.319;-0.878;Sumatera Barat
+1628;102.102;-1.431;Jambi
+1629;102.318;-3.205;Bengkulu
+1630;102.516;-3.526;Bengkulu
+1631;100.882;0.292;Riau
+1632;100.881;0.294;Riau
+1633;100.884;0.297;Riau
+1634;101.354;0.498;Riau
+1635;104.93;-5.37;Lampung
+1636;104.655;-5.498;Lampung
+1638;100.448;1.665;Riau
+1640;101.462;0.547;Riau
+1641;101.354;0.497;Riau
+1642;101.279;1.075;Riau
+1643;101.137;1.366;Riau
+1644;101.412;1.69;Riau
+1645;103.152;-1.725;Jambi
+1646;103.15;-1.726;Jambi
+1647;105.714;-5.312;Lampung
+1648;105.508;-4.884;Lampung
+1649;101.136;1.364;Riau
+1653;105.253;-5.44;Lampung
+1654;105.206;-5.336;Lampung
+1655;105.342;-5.511;Lampung
+1658;105.206;-5.334;Lampung
+1659;105.205;-5.334;Lampung
+1660;105.173;-5.185;Lampung
+1661;105.202;-4.507;Lampung
+1662;104.783;-4.055;Sumatera Selatan
+1664;100.377;-0.344;Sumatera Barat
+1665;104.793;-3.031;Sumatera Selatan
+1666;104.795;-3.032;Sumatera Selatan
+1669;104.509;-4.944;Lampung
+1671;104.783;-5.256;Lampung
+1672;104.931;-5.369;Lampung
+1673;105.326;-5.15;Lampung
+1674;105.305;-5.171;Lampung
+1680;98.661;3.664;Sumatera Utara
+1681;98.95;3.578;Sumatera Utara
+1682;98.906;3.472;Sumatera Utara
+1685;105.39;-5.584;Lampung
+1686;105.384;-5.556;Lampung
+1687;98.338;2.736;Sumatera Utara
+1688;98.332;2.58;Sumatera Utara
+1690;109.299;-0.075;Kalimantan Barat
+1693;140.79;-2.616;Papua
+1694;140.679;-2.586;Papua
+1695;105.175;-5.185;Lampung
+1699;97.43;5.119;Aceh
+1700;97.442;5.13;Aceh
+1702;95.343;5.514;Aceh
+1704;104.135;-2.864;Sumatera Selatan
+1705;104.115;-3.4;Sumatera Selatan
+1707;98.805;3.542;Sumatera Utara
+1708;98.893;3.604;Sumatera Utara
+1711;105.173;-5.184;Lampung
+1712;104.864;-4.851;Lampung
+1714;103.532;-1.571;Jambi
+1715;100.571;-0.403;Sumatera Barat
+1717;96.727;5.132;Aceh
+1720;104.871;-2.928;Sumatera Selatan
+1721;99.433;3.223;Sumatera Utara
+1722;99.354;3.127;Sumatera Utara
+1723;98.505;3.158;Sumatera Utara
+1724;98.34;2.736;Sumatera Utara
+1726;103.801;-3.507;Sumatera Selatan
+1727;104.738;-2.885;Sumatera Selatan
+1728;104.818;-2.428;Sumatera Selatan
+1729;104.577;-4.831;Lampung
+1731;100.416;-1.028;Sumatera Barat
+1734;104.244;-3.446;Sumatera Selatan
+1735;103.62;-1.541;Jambi
+1736;103.769;-1.256;Jambi
+1737;103.679;-1.675;Jambi
+1738;103.549;-1.69;Jambi
+1739;98.495;2.797;Sumatera Utara
+1740;98.54;2.787;Sumatera Utara
+1741;98.843;1.735;Sumatera Utara
+1742;98.844;1.732;Sumatera Utara
+1743;100.374;-1.079;Sumatera Barat
+1744;100.424;-1.072;Sumatera Barat
+1745;100.425;-1.071;Sumatera Barat
+1746;100.693;-1.66;Sumatera Barat
+1751;114.571;-3.309;Kalimantan Selatan
+1752;114.627;-3.424;Kalimantan Selatan
+1753;103.225;-3.981;Sumatera Selatan
+1754;102.933;-4.413;Bengkulu
+1756;110.093;0.002;Kalimantan Barat
+1759;110.094;0.002;Kalimantan Barat
+1760;110.001;0.353;Kalimantan Barat
+1764;108.865;0.83;Kalimantan Barat
+1766;108.875;0.836;Kalimantan Barat
+1768;117.569;0.47;Kalimantan Timur
+1770;116.672;-1.341;Kalimantan Timur
+1772;116.095;-1.803;Kalimantan Timur
+1776;114.979;-1.746;Kalimantan Tengah
+1778;114.374;-3.012;Kalimantan Tengah
+1780;114.866;-0.867;Kalimantan Tengah
+1782;115.139;-0.621;Kalimantan Tengah
+1784;117.189;-0.781;Kalimantan Timur
+1787;114.758;-3.73;Kalimantan Selatan
+1789;115.105;-3.925;Kalimantan Selatan
+1792;115.519;-3.713;Kalimantan Selatan
+1794;115.986;-3.482;Kalimantan Selatan
+1796;117.062;-0.374;Kalimantan Timur
+1802;114.209;-2.821;Kalimantan Tengah
+1803;116.595;-0.272;Kalimantan Timur
+1806;116.166;-1.898;Kalimantan Timur
+1808;113.874;-2.175;Kalimantan Tengah
+1810;113.434;-1.9;Kalimantan Tengah
+1812;112.921;-2.481;Kalimantan Tengah
+1813;112.91;-2.763;Kalimantan Tengah
+1814;112.921;-2.482;Kalimantan Tengah
+1818;119.815;-0.858;Sulawesi Tengah
+1820;111.704;-2.615;Kalimantan Tengah
+1821;118.88;-2.697;Sulawesi Barat
+1824;120.387;-3.717;Sulawesi Selatan
+1832;120.792;-2.552;Sulawesi Selatan
+1834;120.65;-1.64;Sulawesi Tengah
+1835;121.13;-2.645;Sulawesi Selatan
+1837;122.466;-4.025;Sulawesi Tenggara
+1838;122.074;-3.862;Sulawesi Tenggara
+1839;122.506;-3.956;Sulawesi Tenggara
+1841;120.918;-3.537;Sulawesi Tenggara
+1844;121.638;-4.073;Sulawesi Tenggara
+1847;123.461;-10.354;Nusa Tenggara Timur
+1848;123.491;-10.238;Nusa Tenggara Timur
+1849;119.394;-1.155;Sulawesi Barat

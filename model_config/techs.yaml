@@ -1,0 +1,94 @@
+import:
+    - 'techs/battery.yaml'
+    - 'techs/bioenergy.yaml'
+    - 'techs/coal.yaml'
+    - 'techs/ccp.yaml'
+    - 'techs/diesel.yaml'
+    - 'techs/gas.yaml'
+    - 'techs/geothermal.yaml'
+    - 'techs/small_hydro.yaml'
+    - 'techs/large_hydro.yaml'
+    - 'techs/nuclear.yaml'
+    - 'techs/pumped_hydro.yaml'
+    - 'techs/solar.yaml'
+    - 'techs/onshore_wind.yaml'
+    - 'techs/offshore_wind.yaml'
+    - 'techs/otec.yaml'
+
+techs:
+
+    ##
+    # Demand
+    ##
+    # demand-start
+    demand_power:
+        essentials:
+            name: 'Power demand'
+            color: '#072486'
+            parent: demand
+            carrier: power
+    # demand-end
+
+    ##
+    # Transmission
+    ##
+
+    # transmission-start
+    ac_transmission:
+        essentials:
+            name: 'AC power transmission'
+            color: '#FF8C4A'
+            parent: transmission
+            carrier: power
+        constraints:
+            energy_eff: 0.88
+            lifetime: 25
+        costs:
+            monetary:
+                interest_rate: 0.04
+                om_prod: 4.8 # USD/MWh
+
+#    ac_transmission_new:
+#        essentials:
+#            name: 'AC power transmission'
+#            color: '#FC7628'
+#            parent: transmission
+#            carrier: power
+#        constraints:
+#            energy_eff: 0.91
+#            lifetime: 25
+#        costs:
+#            monetary:
+#                interest_rate: 0.04
+#                energy_cap: 1.0 # mil USD/MW.km 1 USD = 14500 IDR
+#                om_prod: 4.8 # USD/MWh
+#
+#    hvdc_transmission:
+#        essentials:
+#            name: 'HVDC power transmission'
+#            color: '#C9C657'
+#            parent: transmission
+#            carrier: power
+#        constraints:
+#            energy_cap_max: inf
+#            energy_eff: 1.0
+#        costs:
+#            monetary:
+#                om_prod: 0.0
+#
+#    hvac_transmission:
+#        essentials:
+#            name: 'HVAC power transmission'
+#            color: '#FC543A'
+#            parent: transmission
+#            carrier: power
+#        constraints:
+#            energy_eff: 0.91
+#            lifetime: 25
+#        costs:
+#            monetary:
+#                interest_rate: 0.04
+#                energy_cap: 1.06 # USD/MW.km 1 USD = 14500 IDR
+#                om_prod: 11.2 # USD/MWh
+#    # transmission-end
+#

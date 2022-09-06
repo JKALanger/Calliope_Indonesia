@@ -1,0 +1,22 @@
+techs:
+
+    nuclear:
+        essentials:
+            name: 'Nuclear'
+            color: '#E2FF91'
+            parent: supply
+            carrier_out: power
+        constraints:
+            resource: inf
+            energy_eff: 0.41
+            energy_cap_max: inf  # MW
+            energy_ramping: 0.05 # per hour
+            lifetime: 40
+        costs:
+            monetary:
+                interest_rate: 0.04
+                energy_cap: 2777000.0 # USD/MW - US EIA
+                om_annual: 15510.0 # USD/MW - US EIA
+                om_con: 9.33 # USD/MWh US EIA
+            emission:
+                om_prod: 0.0 # kgCO2eq/MWh

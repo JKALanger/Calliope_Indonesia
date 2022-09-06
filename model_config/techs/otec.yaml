@@ -1,0 +1,21 @@
+techs:
+
+    otec:
+        essentials:
+            name: 'Ocean Thermal Energy Conversion'
+            color: '#3F3F3F'
+            parent: supply
+            carrier_out: power
+        constraints:
+            resource: inf
+            energy_eff: 0.38
+            energy_cap_max: inf  # MW
+            lifetime: 30
+        costs:
+            monetary:
+                interest_rate: 0.04
+                energy_cap: 1150000.0 # USD/MW
+                om_annual: 41200.0 # USD/MW
+                om_con: 11.3 # USD/MWh - subsidized coal price 3.14 USD/GJ IESR
+            emission:
+                om_prod: 849.0 # kgCO2eq/MWh

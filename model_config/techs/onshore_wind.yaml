@@ -1,0 +1,22 @@
+techs:
+
+    onshore_wind:
+        essentials:
+            name: 'Onshore wind'
+            color: '#B80000'
+            parent: supply_plus
+            carrier_out: power
+        constraints:
+            resource: inf
+            resource_unit: energy_per_cap
+            resource_eff: 1
+            energy_cap_max: inf
+            lifetime: 27
+        costs:
+            monetary:
+                interest_rate: 0.04
+                energy_cap: 2350000.0 # USD per kWh
+                om_annual: 60000.0 # USD/MW
+                om_prod: 0.0 # USD/MWh
+            emission:
+                om_prod: 0.0 # kgCO2eq/kWh

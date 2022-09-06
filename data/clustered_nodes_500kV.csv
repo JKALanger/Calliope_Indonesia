@@ -1,0 +1,7 @@
+v_nom,type,x,y,carrier,unit,v_mag_pu_set,v_mag_pu_min,v_mag_pu_max,control,sub_network,generator
+1.0,,106.09628571428571,-5.963714285714286,AC,None,1.0,0.0,inf,Slack,0,
+1.0,,110.091,-7.894,AC,None,1.0,0.0,inf,PQ,0,
+1.0,,106.7945,-6.224,AC,None,1.0,0.0,inf,PQ,0,
+1.0,,107.35041176470588,-6.6738823529411775,AC,None,1.0,0.0,inf,PQ,0,
+1.0,,110.10471428571428,-7.353142857142857,AC,None,1.0,0.0,inf,PQ,0,
+1.0,,112.30755555555555,-7.503,AC,None,1.0,0.0,inf,PQ,0,

@@ -1,0 +1,22 @@
+techs:
+
+    diesel:
+        essentials:
+            name: 'Diesel'
+            color: '#6D37AD'
+            parent: supply
+            carrier_out: power
+        constraints:
+            resource: inf
+            energy_eff: 0.46
+            energy_cap_max: inf  # MW
+            energy_ramping: 0.25 # per hour
+            lifetime: 25
+        costs:
+            monetary:
+                interest_rate: 0.04
+                energy_cap: 800000.0  # USD/MW
+                om_annual: 8000.0 # USD/MW
+                om_con: 43.9 # USD/MWh - diesel price 12.2 USD/GJ
+            emission:
+                om_prod: 600.0 # kgCO2eq/MWh

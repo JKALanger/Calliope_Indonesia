@@ -1,0 +1,22 @@
+techs:
+
+    bioenergy:
+        essentials:
+            name: 'Bioenergy'
+            color: '#46E334'
+            parent: supply
+            carrier_out: power
+        constraints:
+            resource: inf
+            energy_eff: 0.29
+            energy_cap_max: inf  # MW
+            energy_ramping: 0.1 # per hour
+            lifetime: 25
+        costs:
+            monetary:
+                interest_rate: 0.04
+                energy_cap: 2240000.0  # USD/MW
+                om_annual: 47600.0 # USD/MW
+                om_con: 10.2 # USD/MWh - assuming fuel price 2 USD/GJ ENS
+            emission:
+                om_prod: 0.0 # kgCO2eq/MWh

@@ -1,0 +1,22 @@
+techs:
+
+    small_hydro:
+        essentials:
+            name: 'Small hydro'
+            color: '#007DEB'
+            parent: supply
+            carrier_out: power
+        constraints:
+            resource: inf
+            energy_eff: 0.95
+            energy_cap_max: inf # MW
+            energy_ramping: 0.5 # per hour
+            lifetime: 50
+        costs:
+            monetary:
+                interest_rate: 0.04
+                energy_cap: 2290000.0 # USD/MW
+                om_annual: 41900.0 # USD/MW
+                om_con: 0.5 # USD/MWh
+            emission:
+                om_prod: 0.0 # kgCO2eq/MWh

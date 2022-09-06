@@ -1,0 +1,22 @@
+bus0,bus1,type,x,r,g,b,s_nom,s_nom_extendable,s_nom_min,s_nom_max,s_max_pu,capital_cost,build_year,lifetime,length,carrier,terrain_factor,num_parallel,v_ang_min,v_ang_max,sub_network,x_pu,r_pu,g_pu,b_pu,x_pu_eff,r_pu_eff,s_nom_opt
+Aceh,Sumatera Utara,,0.0,0.0,0.0,0.0,401.4,False,0.0,inf,1.0,0.0,0,inf,334.36639213849077,,1.0,1.0,-inf,inf,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bali,Jawa Timur,,0.0,0.0,0.0,0.0,401.4,False,0.0,inf,1.0,0.0,0,inf,296.88619907645955,,1.0,1.0,-inf,inf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Banten,Daerah Khusus Ibukota Jakarta,,0.0,0.0,0.0,0.0,2408.4,False,0.0,inf,0.9999999999999999,0.0,0,inf,60.248388958951004,,1.0,6.0,-inf,inf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Banten,Jawa Barat,,0.0,0.0,0.0,0.0,1605.6,False,0.0,inf,1.0,0.0,0,inf,133.2905404876876,,1.0,4.0,-inf,inf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bengkulu,Sumatera Selatan,,0.0,0.0,0.0,0.0,802.8,False,0.0,inf,1.0,0.0,0,inf,207.997623533794,,1.0,2.0,-inf,inf,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daerah Istimewa Yogyakarta,Jawa Tengah,,0.0,0.0,0.0,0.0,3211.2,False,0.0,inf,1.0,0.0,0,inf,64.44409764581107,,1.0,8.0,-inf,inf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daerah Khusus Ibukota Jakarta,Jawa Barat,,0.0,0.0,0.0,0.0,4415.4,False,0.0,inf,1.0,0.0,0,inf,80.40545622343902,,1.0,11.0,-inf,inf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gorontalo,Sulawesi Utara,,0.0,0.0,0.0,0.0,401.4,False,0.0,inf,1.0,0.0,0,inf,197.22291328162072,,1.0,1.0,-inf,inf,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jambi,Sumatera Barat,,0.0,0.0,0.0,0.0,895.9,False,0.0,inf,1.0,0.0,0,inf,308.967079611434,,1.0,1.0,-inf,inf,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jambi,Sumatera Selatan,,0.0,0.0,0.0,0.0,802.8,False,0.0,inf,1.0,0.0,0,inf,226.32527544447004,,1.0,2.0,-inf,inf,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jawa Barat,Jawa Tengah,,0.0,0.0,0.0,0.0,1605.6,False,0.0,inf,1.0,0.0,0,inf,318.05614803260306,,1.0,4.0,-inf,inf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jawa Tengah,Jawa Timur,,0.0,0.0,0.0,0.0,2007.0,False,0.0,inf,0.9999999999999999,0.0,0,inf,267.81261258308484,,1.0,5.0,-inf,inf,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kalimantan Selatan,Kalimantan Tengah,,0.0,0.0,0.0,0.0,802.8,False,0.0,inf,1.0,0.0,0,inf,188.56094303262032,,1.0,2.0,-inf,inf,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kalimantan Selatan,Kalimantan Timur,,0.0,0.0,0.0,0.0,401.4,False,0.0,inf,1.0,0.0,0,inf,347.1817047041506,,1.0,1.0,-inf,inf,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lampung,Sumatera Selatan,,0.0,0.0,0.0,0.0,802.8,False,0.0,inf,1.0,0.0,0,inf,231.2398358342028,,1.0,2.0,-inf,inf,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Riau,Sumatera Barat,,0.0,0.0,0.0,0.0,802.8,False,0.0,inf,1.0,0.0,0,inf,170.56734140857384,,1.0,2.0,-inf,inf,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Riau,Sumatera Utara,,0.0,0.0,0.0,0.0,401.4,False,0.0,inf,1.0,0.0,0,inf,362.9314652420693,,1.0,1.0,-inf,inf,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sulawesi Barat,Sulawesi Selatan,,0.0,0.0,0.0,0.0,401.4,False,0.0,inf,1.0,0.0,0,inf,207.35136466301458,,1.0,1.0,-inf,inf,12,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sulawesi Barat,Sulawesi Tengah,,0.0,0.0,0.0,0.0,401.4,False,0.0,inf,1.0,0.0,0,inf,190.43777064180838,,1.0,1.0,-inf,inf,12,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sulawesi Selatan,Sulawesi Tengah,,0.0,0.0,0.0,0.0,895.9,False,0.0,inf,1.0,0.0,0,inf,335.79632458548303,,1.0,1.0,-inf,inf,12,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sulawesi Selatan,Sulawesi Tenggara,,0.0,0.0,0.0,0.0,401.4,False,0.0,inf,1.0,0.0,0,inf,236.21146493693632,,1.0,1.0,-inf,inf,12,0.0,0.0,0.0,0.0,0.0,0.0,0.0

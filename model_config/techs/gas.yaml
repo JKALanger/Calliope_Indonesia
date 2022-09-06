@@ -1,0 +1,22 @@
+techs:
+
+    gas:
+        essentials:
+            name: 'Gas'
+            color: '#E37A72'
+            parent: supply
+            carrier_out: power
+        constraints:
+            resource: inf
+            energy_eff: 0.57
+            energy_cap_max: inf # MW
+            energy_ramping: 0.2 # per hour
+            lifetime: 25
+        costs:
+            monetary:
+                interest_rate: 0.04
+                energy_cap: 1920000.0 # USD/MW
+                om_annual: 23500.0 # USD/MW
+                om_con: 24.5 # USD/MWh - natural gas price 6.81 USD/GJ
+            emission:
+                om_prod: 433.0 # kgCO2eq/MWh

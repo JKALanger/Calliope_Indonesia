@@ -1,0 +1,21 @@
+techs:
+
+    geothermal:
+        essentials:
+            name: 'Geothermal'
+            color: '#FFA6CE'
+            parent: supply
+            carrier_out: power
+        constraints:
+            resource: inf
+            energy_eff: 0.18
+            energy_cap_max: inf  # MW
+            lifetime: 30
+        costs:
+            monetary:
+                interest_rate: 0.04
+                energy_cap: 2840000.0  # USD/MW 2050
+                om_annual: 35500.0 # USD/MW
+                om_con: 0.18 # USD/MW
+            emission:
+                om_prod: 0.0 # kgCO2eq/MWh
